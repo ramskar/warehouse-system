@@ -1,0 +1,3 @@
+Warehouse information system which helps administrator to manage stocked products.
+Enter product quantity - prints out all the items which is less than entered number.
+Enter date - prints out all the products with expired date
